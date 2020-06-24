@@ -1,11 +1,38 @@
-.navbar {
-    background-color: #76D7C4;
+body{
+    font-family: 'Segoe UI';
 }
 
-.quem-somos {
+h5{
+    padding-top: 15px;
+}
+
+.navbar{
+    background-color: #FCD79C;
+}
+
+.quem-somos{
     background-color: #DAF7A6;
 }
 
-.margin {
-    padding: 15px 0 2px;
+.margin{
+    padding: 15px 0 20px;
+}
+
+.margin2{
+    padding-top: 35px;
+}
+
+.margin3{
+    padding-bottom: 20px;
+}
+
+.parcerias{
+    background-color: #ADECE7;
+}
+
+.redimensionada{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    object-position: center;
 }
